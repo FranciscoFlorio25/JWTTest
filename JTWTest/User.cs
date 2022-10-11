@@ -1,4 +1,4 @@
-﻿namespace JTWTest
+﻿namespace JWTTest
 {
     public class User
     {
